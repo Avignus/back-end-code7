@@ -1,0 +1,567 @@
+2020-10-15T13:06:24.501Z [my-bank-api] info: API started...
+2020-10-15T13:06:34.328Z [my-bank-api] info: GET /account/1
+2020-10-15T13:53:19.261Z [my-bank-api] info: API started...
+2020-10-15T13:53:37.809Z [my-bank-api] info: API started...
+2020-10-15T13:53:49.664Z [my-bank-api] error: POST /account - Name e balance são obrigatórios.
+2020-10-15T13:54:40.016Z [my-bank-api] info: API started...
+2020-10-15T13:54:44.277Z [my-bank-api] info: API started...
+2020-10-15T13:56:46.793Z [my-bank-api] info: POST /account - {"id":4,"name":"Igor Henrique","balance":0}
+2020-10-15T13:58:28.702Z [my-bank-api] info: API started...
+2020-10-15T13:58:46.334Z [my-bank-api] info: POST /account - {"id":5,"name":"Igor Henrique","balance":0}
+2020-10-15T14:01:27.141Z [my-bank-api] info: API started...
+2020-10-15T14:01:48.147Z [my-bank-api] info: API started...
+2020-10-15T14:02:20.926Z [my-bank-api] info: PUT /account - {"id":329,"name":"Igor Rapozo","balance":500}
+2020-10-15T14:02:20.927Z [my-bank-api] error: PUT /account - ID não encontrado
+2020-10-15T14:02:28.479Z [my-bank-api] info: API started...
+2020-10-15T14:02:31.802Z [my-bank-api] info: PUT /account - {"id":329,"name":"Igor Rapozo","balance":500}
+2020-10-15T14:02:31.803Z [my-bank-api] error: PUT /account - ID não encontrado
+2020-10-15T14:03:02.754Z [my-bank-api] info: API started...
+2020-10-15T14:03:16.839Z [my-bank-api] error: PUT /account - ID não encontrado
+2021-02-16T15:12:06.461Z [my-bank-api] info: API started...
+2021-02-16T15:12:15.433Z [my-bank-api] info: GET /account
+2021-02-16T16:02:39.408Z [my-bank-api] info: API started...
+2021-02-16T16:05:09.399Z [my-bank-api] info: GET /account
+2021-02-16T16:05:38.760Z [my-bank-api] info: GET /account
+2021-02-16T16:18:35.268Z [my-bank-api] info: GET /account
+2021-02-16T16:18:38.951Z [my-bank-api] info: GET /account
+2021-02-16T16:18:50.103Z [my-bank-api] info: GET /account
+2021-02-16T16:19:04.425Z [my-bank-api] info: GET /account
+2021-02-16T16:19:30.509Z [my-bank-api] info: GET /account
+2021-02-16T16:21:55.446Z [my-bank-api] info: GET /account
+2021-02-17T13:16:56.437Z [my-bank-api] info: API started...
+2021-02-17T13:17:32.303Z [my-bank-api] error: POST /account - Name e balance são obrigatórios.
+2021-02-17T14:01:22.918Z [my-bank-api] info: API started...
+2021-02-17T14:01:28.744Z [my-bank-api] error: POST /account - TrataErro is not defined
+2021-02-17T14:01:47.600Z [my-bank-api] error: POST /account - TrataErro is not defined
+2021-02-17T14:01:53.974Z [my-bank-api] info: API started...
+2021-02-17T14:01:56.862Z [my-bank-api] error: POST /account - Name e balance são obrigatórios.
+2021-02-17T21:10:02.978Z [my-bank-api] info: GET /account
+2021-02-17T21:12:34.652Z [my-bank-api] info: GET /account
+2021-02-17T21:15:17.261Z [my-bank-api] info: GET /account
+2021-02-17T21:16:45.142Z [my-bank-api] info: GET /account
+2021-02-17T21:22:13.591Z [my-bank-api] info: GET /account
+2021-02-17T21:24:11.702Z [my-bank-api] info: GET /account
+2021-02-17T22:00:33.968Z [my-bank-api] info: GET /account
+2021-02-17T22:01:14.640Z [my-bank-api] info: GET /account
+2021-02-17T22:01:25.581Z [my-bank-api] info: GET /account
+2021-02-17T22:01:38.787Z [my-bank-api] info: GET /account
+2021-02-17T22:01:46.906Z [my-bank-api] info: GET /account
+2021-02-17T22:01:51.043Z [my-bank-api] info: GET /account
+2021-02-17T22:02:00.703Z [my-bank-api] info: GET /account
+2021-02-17T22:08:24.070Z [my-bank-api] info: GET /account
+2021-02-17T22:09:33.163Z [my-bank-api] info: GET /account
+2021-04-16T23:13:18.686Z [my-bank-api] info: API started...
+2021-04-16T23:18:32.659Z [my-bank-api] info: API started...
+2021-04-16T23:19:31.430Z [my-bank-api] info: POST /account - {"id":6,"name":"Igor Henrique","balance":1500,"description":"Entrada Playstation 5"}
+2021-04-16T23:19:43.287Z [my-bank-api] info: GET /account/6
+2021-04-16T23:43:32.705Z [my-bank-api] info: API started...
+2021-04-16T23:44:07.445Z [my-bank-api] info: GET /account
+2021-04-16T23:44:24.861Z [my-bank-api] info: DELETE /account 1
+2021-04-16T23:44:27.935Z [my-bank-api] info: DELETE /account 2
+2021-04-16T23:44:30.486Z [my-bank-api] info: DELETE /account 3
+2021-04-16T23:44:33.272Z [my-bank-api] info: DELETE /account 4
+2021-04-16T23:44:37.413Z [my-bank-api] info: DELETE /account 5
+2021-04-16T23:44:40.174Z [my-bank-api] info: DELETE /account 6
+2021-04-17T01:47:20.119Z [my-bank-api] info: POST /account - {"id":7,"name":"Ervin Howell","balance":500000,"description":"Financiamento de casa"}
+2021-04-17T01:47:37.531Z [my-bank-api] info: GET /account
+2021-04-17T01:47:51.164Z [my-bank-api] info: DELETE /account 7
+2021-04-17T01:47:54.913Z [my-bank-api] info: GET /account
+2021-04-17T01:48:00.673Z [my-bank-api] info: POST /account - {"id":8,"name":"Ervin Howell","balance":500000,"description":"Financiamento de casa"}
+2021-04-17T01:48:27.519Z [my-bank-api] info: API started...
+2021-04-17T01:48:36.828Z [my-bank-api] info: DELETE /account 8
+2021-04-17T01:48:39.706Z [my-bank-api] info: GET /account
+2021-04-17T01:48:48.015Z [my-bank-api] info: POST /account - {"id":0,"name":"Ervin Howell","balance":500000,"description":"Financiamento de casa"}
+2021-04-17T01:48:52.158Z [my-bank-api] info: GET /account
+2021-04-17T01:49:36.213Z [my-bank-api] info: POST /account - {"id":1,"name":"Clementine Bauch","balance":20000,"description":"Carro"}
+2021-04-17T01:50:09.286Z [my-bank-api] info: POST /account - {"id":2,"name":"Patricia Lebsack","balance":15000,"description":"Mochilão na Europa"}
+2021-04-17T01:50:30.832Z [my-bank-api] info: POST /account - {"id":3,"name":"Chelsey Dietrich","balance":10000,"description":"Festa de casamento"}
+2021-04-17T01:50:55.230Z [my-bank-api] info: POST /account - {"id":4,"name":"Mrs. Dennis Schulist","balance":1000,"description":"RP no LoL"}
+2021-04-17T01:51:17.201Z [my-bank-api] info: POST /account - {"id":5,"name":"Kurtis Weissnat","balance":150,"description":"Conserto da TV"}
+2021-04-17T01:51:43.454Z [my-bank-api] info: POST /account - {"id":6,"name":"Glenna Reichert","balance":3000,"description":"Prótese de silicone"}
+2021-04-17T01:52:19.218Z [my-bank-api] info: POST /account - {"id":7,"name":"Clementina DuBuque","balance":20000,"description":"Lipoaspiração"}
+2021-04-17T01:52:26.603Z [my-bank-api] info: GET /account
+2021-04-17T01:57:33.977Z [my-bank-api] info: GET /account
+2021-04-17T01:58:05.864Z [my-bank-api] info: GET /account
+2021-04-17T01:58:05.872Z [my-bank-api] info: GET /account
+2021-04-17T01:58:23.942Z [my-bank-api] info: GET /account
+2021-04-17T01:58:23.959Z [my-bank-api] info: GET /account
+2021-04-17T01:59:05.058Z [my-bank-api] info: GET /account
+2021-04-17T01:59:05.066Z [my-bank-api] info: GET /account
+2021-04-17T01:59:11.976Z [my-bank-api] info: GET /account
+2021-04-17T01:59:12.077Z [my-bank-api] info: GET /account
+2021-04-17T01:59:18.976Z [my-bank-api] info: GET /account
+2021-04-17T01:59:19.071Z [my-bank-api] info: GET /account
+2021-04-17T01:59:36.199Z [my-bank-api] info: GET /account
+2021-04-17T01:59:44.815Z [my-bank-api] info: GET /account
+2021-04-17T02:00:20.499Z [my-bank-api] info: GET /account
+2021-04-17T02:00:26.931Z [my-bank-api] info: GET /account
+2021-04-17T02:00:44.320Z [my-bank-api] info: GET /account
+2021-04-17T02:01:47.616Z [my-bank-api] info: GET /account
+2021-04-17T02:20:59.707Z [my-bank-api] info: GET /account
+2021-04-18T13:25:15.591Z [my-bank-api] info: API started...
+2021-04-18T13:25:57.170Z [my-bank-api] info: API started...
+2021-04-18T13:26:58.051Z [my-bank-api] info: API started...
+2021-04-18T13:27:54.490Z [my-bank-api] info: API started...
+2021-04-18T13:29:22.579Z [my-bank-api] info: API started...
+2021-04-18T13:29:49.551Z [my-bank-api] info: GET /account
+2021-04-18T13:32:25.621Z [my-bank-api] info: GET /account
+2021-04-18T13:33:34.148Z [my-bank-api] info: GET /account
+2021-04-18T13:34:24.903Z [my-bank-api] info: GET /account
+2021-04-18T13:36:54.432Z [my-bank-api] info: GET /account
+2021-04-18T13:37:14.903Z [my-bank-api] info: GET /account
+2021-04-18T13:39:28.743Z [my-bank-api] info: GET /account
+2021-04-18T13:40:59.143Z [my-bank-api] info: GET /account
+2021-04-18T13:43:11.905Z [my-bank-api] info: GET /account
+2021-04-18T13:43:18.010Z [my-bank-api] info: GET /account
+2021-04-18T13:43:55.772Z [my-bank-api] info: GET /account
+2021-04-18T13:44:41.905Z [my-bank-api] info: GET /account
+2021-04-18T13:45:11.330Z [my-bank-api] info: GET /account
+2021-04-18T13:45:17.822Z [my-bank-api] info: GET /account
+2021-04-18T13:45:25.881Z [my-bank-api] info: GET /account
+2021-04-18T13:45:41.588Z [my-bank-api] info: GET /account
+2021-04-18T14:14:40.924Z [my-bank-api] info: GET /account
+2021-04-18T14:14:45.915Z [my-bank-api] info: GET /account
+2021-04-18T14:15:53.670Z [my-bank-api] info: GET /account
+2021-04-18T14:16:24.657Z [my-bank-api] info: GET /account
+2021-04-18T14:17:52.984Z [my-bank-api] info: GET /account
+2021-04-18T14:17:55.774Z [my-bank-api] info: GET /account
+2021-04-18T14:18:49.110Z [my-bank-api] info: API started...
+2021-04-18T14:19:32.733Z [my-bank-api] info: GET /account
+2021-04-18T14:19:53.536Z [my-bank-api] info: GET /account
+2021-04-18T14:20:04.632Z [my-bank-api] info: GET /account
+2021-04-18T14:20:41.618Z [my-bank-api] info: GET /account
+2021-04-18T14:20:58.515Z [my-bank-api] info: GET /account
+2021-04-18T14:21:04.641Z [my-bank-api] info: GET /account
+2021-04-18T14:21:07.044Z [my-bank-api] info: GET /account
+2021-04-18T14:21:33.523Z [my-bank-api] info: GET /account
+2021-04-18T14:21:34.882Z [my-bank-api] info: GET /account
+2021-04-18T14:21:49.020Z [my-bank-api] info: GET /account
+2021-04-18T14:23:10.866Z [my-bank-api] info: GET /account
+2021-04-18T14:23:12.567Z [my-bank-api] info: GET /account
+2021-04-18T14:23:16.657Z [my-bank-api] info: GET /account
+2021-04-18T14:24:21.994Z [my-bank-api] info: GET /account
+2021-04-18T14:24:33.915Z [my-bank-api] info: GET /account
+2021-04-18T14:24:59.289Z [my-bank-api] info: GET /account
+2021-04-18T14:25:22.396Z [my-bank-api] info: GET /account
+2021-04-18T14:25:24.812Z [my-bank-api] info: GET /account
+2021-04-18T14:26:11.951Z [my-bank-api] info: GET /account
+2021-04-18T14:26:15.233Z [my-bank-api] info: GET /account
+2021-04-18T14:26:23.197Z [my-bank-api] info: GET /account
+2021-04-18T14:26:36.753Z [my-bank-api] info: GET /account
+2021-04-18T14:26:40.079Z [my-bank-api] info: GET /account
+2021-04-18T14:26:44.626Z [my-bank-api] info: GET /account
+2021-04-18T14:27:07.375Z [my-bank-api] info: GET /account
+2021-04-18T14:27:37.271Z [my-bank-api] info: GET /account
+2021-04-18T14:28:14.100Z [my-bank-api] info: GET /account
+2021-04-18T14:28:24.906Z [my-bank-api] info: GET /account
+2021-04-18T14:29:58.898Z [my-bank-api] info: GET /account
+2021-04-18T14:31:26.228Z [my-bank-api] info: GET /account
+2021-04-18T14:31:34.232Z [my-bank-api] info: GET /account
+2021-04-18T14:32:19.961Z [my-bank-api] info: GET /account
+2021-04-18T15:14:05.999Z [my-bank-api] info: GET /account
+2021-04-18T15:14:19.292Z [my-bank-api] info: GET /account
+2021-04-18T15:16:13.915Z [my-bank-api] info: GET /account
+2021-04-18T15:17:18.459Z [my-bank-api] info: GET /account
+2021-04-18T15:17:46.916Z [my-bank-api] info: GET /account
+2021-04-18T15:18:06.958Z [my-bank-api] info: GET /account
+2021-04-18T15:18:08.901Z [my-bank-api] info: GET /account
+2021-04-18T15:18:57.904Z [my-bank-api] info: GET /account
+2021-04-18T15:22:22.906Z [my-bank-api] info: GET /account
+2021-04-18T15:23:09.897Z [my-bank-api] info: GET /account
+2021-04-18T15:23:20.098Z [my-bank-api] info: GET /account
+2021-04-18T15:43:39.438Z [my-bank-api] info: GET /account
+2021-04-18T15:53:17.180Z [my-bank-api] info: GET /account
+2021-04-18T15:55:11.862Z [my-bank-api] info: GET /account
+2021-04-18T16:06:02.895Z [my-bank-api] info: GET /account
+2021-04-18T16:06:09.903Z [my-bank-api] info: GET /account
+2021-04-18T16:09:30.057Z [my-bank-api] info: GET /account
+2021-04-18T16:13:11.811Z [my-bank-api] info: GET /account
+2021-04-18T16:13:17.734Z [my-bank-api] info: GET /account
+2021-04-18T16:13:51.283Z [my-bank-api] info: GET /account
+2021-04-18T16:14:31.179Z [my-bank-api] info: GET /account
+2021-04-18T16:14:49.924Z [my-bank-api] info: GET /account
+2021-04-18T16:15:14.310Z [my-bank-api] info: GET /account
+2021-04-18T16:15:32.099Z [my-bank-api] info: GET /account
+2021-04-18T16:19:41.926Z [my-bank-api] info: GET /account
+2021-04-18T16:19:50.185Z [my-bank-api] info: GET /account
+2021-04-18T16:20:24.592Z [my-bank-api] info: GET /account
+2021-04-18T16:21:05.707Z [my-bank-api] info: GET /account
+2021-04-18T16:21:56.717Z [my-bank-api] info: GET /account
+2021-04-18T16:23:38.495Z [my-bank-api] info: GET /account
+2021-04-18T16:40:04.904Z [my-bank-api] info: GET /account
+2021-04-18T16:40:29.909Z [my-bank-api] info: GET /account
+2021-04-18T16:40:38.911Z [my-bank-api] info: GET /account
+2021-04-18T16:40:54.912Z [my-bank-api] info: GET /account
+2021-04-18T16:41:00.900Z [my-bank-api] info: GET /account
+2021-04-18T16:43:03.921Z [my-bank-api] info: GET /account
+2021-04-18T16:43:52.597Z [my-bank-api] info: GET /account
+2021-04-18T16:45:13.597Z [my-bank-api] info: GET /account
+2021-04-18T16:46:43.917Z [my-bank-api] info: GET /account
+2021-04-18T16:47:22.899Z [my-bank-api] info: GET /account
+2021-04-18T16:48:43.248Z [my-bank-api] info: API started...
+2021-04-18T16:48:46.996Z [my-bank-api] info: GET /account
+2021-04-18T16:48:57.535Z [my-bank-api] info: GET /account
+2021-04-18T16:52:39.760Z [my-bank-api] info: GET /account
+2021-04-18T16:53:10.455Z [my-bank-api] info: GET /account
+2021-04-18T16:53:41.953Z [my-bank-api] info: GET /account
+2021-04-18T16:57:14.456Z [my-bank-api] info: GET /account
+2021-04-18T16:57:22.021Z [my-bank-api] info: GET /account
+2021-04-18T16:58:47.990Z [my-bank-api] info: GET /account
+2021-04-18T16:58:49.721Z [my-bank-api] info: GET /account
+2021-04-18T17:00:13.356Z [my-bank-api] info: GET /account
+2021-04-18T17:00:36.911Z [my-bank-api] info: GET /account
+2021-04-18T17:00:40.295Z [my-bank-api] info: GET /account
+2021-04-18T17:02:17.857Z [my-bank-api] info: GET /account
+2021-04-18T17:02:22.760Z [my-bank-api] info: GET /account
+2021-04-18T17:02:56.693Z [my-bank-api] info: GET /account
+2021-04-18T17:03:09.224Z [my-bank-api] info: GET /account
+2021-04-18T17:03:35.230Z [my-bank-api] info: GET /account
+2021-04-18T17:03:38.712Z [my-bank-api] info: GET /account
+2021-04-18T17:05:38.120Z [my-bank-api] info: GET /account
+2021-04-18T17:05:48.900Z [my-bank-api] error: PUT /account - ID não encontrado
+2021-04-18T17:06:55.907Z [my-bank-api] info: GET /account
+2021-04-18T17:06:59.667Z [my-bank-api] info: PUT /account - {"id":0,"name":"re","description":null,"balance":null}
+2021-04-18T17:08:06.562Z [my-bank-api] info: GET /account
+2021-04-18T17:09:26.915Z [my-bank-api] info: GET /account
+2021-04-18T17:09:32.438Z [my-bank-api] info: GET /account
+2021-04-18T17:10:25.855Z [my-bank-api] info: GET /account
+2021-04-18T17:10:37.320Z [my-bank-api] info: GET /account
+2021-04-18T17:11:29.913Z [my-bank-api] info: GET /account
+2021-04-18T17:11:37.308Z [my-bank-api] info: GET /account
+2021-04-18T17:12:34.441Z [my-bank-api] info: GET /account
+2021-04-18T17:12:40.130Z [my-bank-api] info: GET /account
+2021-04-18T17:13:24.926Z [my-bank-api] info: GET /account
+2021-04-18T17:15:30.910Z [my-bank-api] info: GET /account
+2021-04-18T17:15:46.984Z [my-bank-api] info: GET /account
+2021-04-18T17:16:54.869Z [my-bank-api] info: GET /account
+2021-04-18T17:17:13.978Z [my-bank-api] info: GET /account
+2021-04-18T17:17:48.370Z [my-bank-api] info: GET /account
+2021-04-18T17:18:41.587Z [my-bank-api] info: GET /account
+2021-04-18T17:19:06.747Z [my-bank-api] info: GET /account
+2021-04-18T17:20:34.000Z [my-bank-api] info: GET /account
+2021-04-18T17:21:09.365Z [my-bank-api] info: GET /account
+2021-04-18T17:21:50.437Z [my-bank-api] info: GET /account
+2021-04-18T17:23:41.246Z [my-bank-api] info: GET /account
+2021-04-18T17:23:48.800Z [my-bank-api] info: GET /account
+2021-04-18T17:24:14.639Z [my-bank-api] info: GET /account
+2021-04-18T17:24:53.708Z [my-bank-api] info: GET /account
+2021-04-18T17:25:22.573Z [my-bank-api] info: GET /account
+2021-04-18T17:26:29.325Z [my-bank-api] info: GET /account
+2021-04-18T17:27:08.609Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:28:11.938Z [my-bank-api] info: PUT /account - {"id":0,"name":"teste","description":null,"balance":null}
+2021-04-18T17:29:00.512Z [my-bank-api] info: GET /account
+2021-04-18T17:29:11.532Z [my-bank-api] info: GET /account
+2021-04-18T17:29:11.536Z [my-bank-api] info: GET /account
+2021-04-18T17:29:11.542Z [my-bank-api] info: PUT /account - {"id":0,"name":"123","description":null,"balance":null}
+2021-04-18T17:29:24.110Z [my-bank-api] info: GET /account
+2021-04-18T17:29:40.207Z [my-bank-api] info: GET /account
+2021-04-18T17:29:44.972Z [my-bank-api] info: GET /account
+2021-04-18T17:29:44.976Z [my-bank-api] info: PUT /account - {"id":0,"name":"41","description":null,"balance":null}
+2021-04-18T17:30:49.663Z [my-bank-api] info: GET /account
+2021-04-18T17:30:49.669Z [my-bank-api] info: PUT /account - {"id":0,"name":"41","description":null,"balance":null}
+2021-04-18T17:30:58.842Z [my-bank-api] info: GET /account
+2021-04-18T17:30:58.847Z [my-bank-api] info: PUT /account - {"id":0,"name":"23","description":null,"balance":null}
+2021-04-18T17:31:00.605Z [my-bank-api] info: GET /account
+2021-04-18T17:31:00.609Z [my-bank-api] info: PUT /account - {"id":0,"name":"23","description":null,"balance":null}
+2021-04-18T17:31:25.995Z [my-bank-api] info: GET /account
+2021-04-18T17:31:28.696Z [my-bank-api] info: PUT /account - {"id":0,"name":"45","description":null,"balance":null}
+2021-04-18T17:31:28.707Z [my-bank-api] info: GET /account
+2021-04-18T17:31:33.550Z [my-bank-api] info: GET /account
+2021-04-18T17:31:33.551Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:31:34.480Z [my-bank-api] info: GET /account
+2021-04-18T17:31:34.484Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:31:39.797Z [my-bank-api] info: GET /account
+2021-04-18T17:31:39.803Z [my-bank-api] info: PUT /account - {"id":0,"name":"32","description":null,"balance":null}
+2021-04-18T17:31:40.252Z [my-bank-api] info: GET /account
+2021-04-18T17:31:40.257Z [my-bank-api] info: PUT /account - {"id":0,"name":"32","description":null,"balance":null}
+2021-04-18T17:31:54.152Z [my-bank-api] info: GET /account
+2021-04-18T17:31:54.157Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:32:13.505Z [my-bank-api] info: GET /account
+2021-04-18T17:32:13.511Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:32:18.294Z [my-bank-api] info: GET /account
+2021-04-18T17:32:18.296Z [my-bank-api] info: PUT /account - {"id":0,"name":"32","description":null,"balance":null}
+2021-04-18T17:32:26.271Z [my-bank-api] info: GET /account
+2021-04-18T17:32:26.275Z [my-bank-api] info: PUT /account - {"id":0,"name":"4141","description":null,"balance":null}
+2021-04-18T17:32:32.808Z [my-bank-api] info: GET /account
+2021-04-18T17:32:32.813Z [my-bank-api] info: PUT /account - {"id":0,"name":"32","description":null,"balance":null}
+2021-04-18T17:33:02.702Z [my-bank-api] info: GET /account
+2021-04-18T17:33:02.707Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:34:03.736Z [my-bank-api] info: GET /account
+2021-04-18T17:34:03.741Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:34:11.162Z [my-bank-api] info: GET /account
+2021-04-18T17:34:11.167Z [my-bank-api] info: PUT /account - {"id":0,"name":"3","description":null,"balance":null}
+2021-04-18T17:34:48.165Z [my-bank-api] info: GET /account
+2021-04-18T17:34:54.058Z [my-bank-api] info: GET /account
+2021-04-18T17:34:54.063Z [my-bank-api] info: PUT /account - {"id":0,"name":"4","description":null,"balance":null}
+2021-04-18T17:37:40.237Z [my-bank-api] info: GET /account
+2021-04-18T17:37:42.912Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:37:51.933Z [my-bank-api] info: GET /account
+2021-04-18T17:37:56.083Z [my-bank-api] info: GET /account
+2021-04-18T17:37:58.968Z [my-bank-api] info: GET /account
+2021-04-18T17:37:58.972Z [my-bank-api] info: PUT /account - {"id":0,"name":"3","description":null,"balance":null}
+2021-04-18T17:38:00.327Z [my-bank-api] info: GET /account
+2021-04-18T17:38:00.330Z [my-bank-api] info: PUT /account - {"id":0,"name":"3","description":null,"balance":null}
+2021-04-18T17:39:59.496Z [my-bank-api] info: GET /account
+2021-04-18T17:39:59.501Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:40:00.047Z [my-bank-api] info: GET /account
+2021-04-18T17:40:00.050Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:41:12.444Z [my-bank-api] info: GET /account
+2021-04-18T17:41:13.917Z [my-bank-api] info: GET /account
+2021-04-18T17:41:13.923Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:41:16.035Z [my-bank-api] info: GET /account
+2021-04-18T17:41:16.038Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:41:18.933Z [my-bank-api] info: GET /account
+2021-04-18T17:41:18.938Z [my-bank-api] info: PUT /account - {"id":0,"name":"4","description":null,"balance":null}
+2021-04-18T17:43:00.957Z [my-bank-api] info: GET /account
+2021-04-18T17:43:06.170Z [my-bank-api] info: GET /account
+2021-04-18T17:43:06.177Z [my-bank-api] info: PUT /account - {"id":0,"name":"5","description":null,"balance":null}
+2021-04-18T17:43:22.472Z [my-bank-api] info: GET /account
+2021-04-18T17:43:25.062Z [my-bank-api] info: GET /account
+2021-04-18T17:43:25.067Z [my-bank-api] info: PUT /account - {"id":0,"name":"4","description":null,"balance":null}
+2021-04-18T17:43:36.369Z [my-bank-api] info: GET /account
+2021-04-18T17:43:36.376Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:44:22.943Z [my-bank-api] info: GET /account
+2021-04-18T17:44:26.412Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:44:26.419Z [my-bank-api] info: GET /account
+2021-04-18T17:44:55.900Z [my-bank-api] info: GET /account
+2021-04-18T17:44:59.721Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:44:59.724Z [my-bank-api] info: GET /account
+2021-04-18T17:45:16.545Z [my-bank-api] info: GET /account
+2021-04-18T17:45:21.139Z [my-bank-api] info: PUT /account - {"id":0,"name":"4","description":null,"balance":null}
+2021-04-18T17:45:21.142Z [my-bank-api] info: GET /account
+2021-04-18T17:45:24.504Z [my-bank-api] info: GET /account
+2021-04-18T17:45:24.505Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:45:25.733Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:45:25.736Z [my-bank-api] info: GET /account
+2021-04-18T17:45:30.637Z [my-bank-api] info: GET /account
+2021-04-18T17:45:30.641Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:45:58.348Z [my-bank-api] info: GET /account
+2021-04-18T17:46:02.105Z [my-bank-api] info: GET /account
+2021-04-18T17:46:02.111Z [my-bank-api] info: PUT /account - {"id":0,"name":"3","description":null,"balance":null}
+2021-04-18T17:46:52.625Z [my-bank-api] info: GET /account
+2021-04-18T17:46:52.630Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:48:06.248Z [my-bank-api] info: GET /account
+2021-04-18T17:48:10.541Z [my-bank-api] info: GET /account
+2021-04-18T17:48:10.547Z [my-bank-api] info: PUT /account - {"id":0,"name":"12","description":null,"balance":null}
+2021-04-18T17:48:27.249Z [my-bank-api] info: GET /account
+2021-04-18T17:48:33.115Z [my-bank-api] info: GET /account
+2021-04-18T17:48:33.120Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:49:12.721Z [my-bank-api] info: GET /account
+2021-04-18T17:49:15.625Z [my-bank-api] info: GET /account
+2021-04-18T17:49:18.692Z [my-bank-api] info: GET /account
+2021-04-18T17:49:18.697Z [my-bank-api] info: PUT /account - {"id":0,"name":"2","description":null,"balance":null}
+2021-04-18T17:51:24.979Z [my-bank-api] info: GET /account
+2021-04-18T17:51:27.196Z [my-bank-api] info: PUT /account - {"id":0,"name":"1","description":null,"balance":null}
+2021-04-18T17:51:27.209Z [my-bank-api] info: GET /account
+2021-04-18T17:51:29.905Z [my-bank-api] info: PUT /account - {"id":0,"name":"4","description":null,"balance":null}
+2021-04-18T17:51:29.917Z [my-bank-api] info: GET /account
+2021-04-18T17:51:43.489Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"Aluguel","balance":"$200"}
+2021-04-18T17:51:43.501Z [my-bank-api] info: GET /account
+2021-04-18T18:24:29.965Z [my-bank-api] info: GET /account
+2021-04-18T18:24:29.969Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":null,"balance":null}
+2021-04-18T18:24:53.214Z [my-bank-api] info: PUT /account - {"id":0,"name":"sara miranda","description":"gtx 1050","balance":"$1,500"}
+2021-04-18T18:24:53.227Z [my-bank-api] info: GET /account
+2021-04-18T19:51:52.675Z [my-bank-api] info: GET /account
+2021-04-18T19:51:52.679Z [my-bank-api] info: PUT /account - {"id":0,"name":"Ervin Howell","description":null,"balance":null}
+2021-04-18T19:52:00.064Z [my-bank-api] info: GET /account
+2021-04-18T19:52:00.070Z [my-bank-api] info: PUT /account - {"id":0,"name":"Ervin Howell","description":null,"balance":null}
+2021-04-18T19:52:10.200Z [my-bank-api] info: GET /account
+2021-04-18T19:52:10.205Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":"gtx 1050","balance":"$1,200"}
+2021-04-18T19:52:56.904Z [my-bank-api] info: GET /account
+2021-04-18T19:52:59.568Z [my-bank-api] info: GET /account
+2021-04-18T19:53:06.957Z [my-bank-api] info: GET /account
+2021-04-18T19:53:06.962Z [my-bank-api] info: PUT /account - {"id":0,"name":"Ervin Howell","description":null,"balance":null}
+2021-04-18T19:54:21.934Z [my-bank-api] info: GET /account
+2021-04-18T19:54:33.627Z [my-bank-api] info: PUT /account - {"id":0,"name":"Sara Giovana Miranda","description":null,"balance":null}
+2021-04-18T19:54:33.637Z [my-bank-api] info: GET /account
+2021-04-18T19:55:18.443Z [my-bank-api] info: GET /account
+2021-04-18T19:55:18.449Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":"GTX 1050","balance":"$1,500"}
+2021-04-18T19:55:46.859Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":"GTX 1050","balance":"$1,500"}
+2021-04-18T19:55:46.866Z [my-bank-api] info: GET /account
+2021-04-18T19:55:51.620Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":"GTX 1050","balance":"$1,500"}
+2021-04-18T19:55:51.628Z [my-bank-api] info: GET /account
+2021-04-18T19:56:01.528Z [my-bank-api] info: PUT /account - {"id":0,"name":"Sara Giovana","description":"GTX 1050","balance":"$1,500"}
+2021-04-18T19:56:01.537Z [my-bank-api] info: GET /account
+2021-04-18T19:56:16.174Z [my-bank-api] info: GET /account
+2021-04-18T19:56:16.178Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":null,"balance":null}
+2021-04-18T19:57:31.926Z [my-bank-api] info: GET /account
+2021-04-18T19:57:31.935Z [my-bank-api] info: PUT /account - {"id":0,"name":null,"description":null,"balance":null}
+2021-04-18T20:02:17.916Z [my-bank-api] info: GET /account
+2021-04-18T20:02:42.236Z [my-bank-api] info: GET /account
+2021-04-18T20:02:48.704Z [my-bank-api] info: GET /account
+2021-04-18T20:02:48.708Z [my-bank-api] info: PUT /account - {"id":1,"name":null,"description":null,"balance":null}
+2021-04-18T20:03:34.830Z [my-bank-api] info: GET /account
+2021-04-18T20:04:00.747Z [my-bank-api] info: GET /account
+2021-04-18T20:04:00.753Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti"}
+2021-04-18T20:04:25.739Z [my-bank-api] info: GET /account
+2021-04-18T20:05:46.347Z [my-bank-api] info: GET /account
+2021-04-18T20:05:46.351Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti"}
+2021-04-18T20:06:25.676Z [my-bank-api] info: GET /account
+2021-04-18T20:06:52.219Z [my-bank-api] info: GET /account
+2021-04-18T20:06:53.834Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:06:53.844Z [my-bank-api] info: GET /account
+2021-04-18T20:07:11.775Z [my-bank-api] info: GET /account
+2021-04-18T20:07:11.782Z [my-bank-api] info: PUT /account - {"id":1,"name":"Clementine Avell","description":"Casa","balance":"$25,000"}
+2021-04-18T20:07:19.022Z [my-bank-api] info: GET /account
+2021-04-18T20:07:31.519Z [my-bank-api] info: GET /account
+2021-04-18T20:07:31.524Z [my-bank-api] info: PUT /account - {"id":1,"name":"Clementine","description":"Casa","balance":"$25,000"}
+2021-04-18T20:07:55.448Z [my-bank-api] info: GET /account
+2021-04-18T20:08:03.588Z [my-bank-api] info: GET /account
+2021-04-18T20:08:03.593Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:09:35.158Z [my-bank-api] info: GET /account
+2021-04-18T20:09:41.301Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igo","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:09:41.312Z [my-bank-api] info: GET /account
+2021-04-18T20:09:48.273Z [my-bank-api] info: PUT /account - {"id":1,"name":"Joia","description":"Casa","balance":"$25,000"}
+2021-04-18T20:09:48.284Z [my-bank-api] info: GET /account
+2021-04-18T20:09:56.112Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:09:56.123Z [my-bank-api] info: GET /account
+2021-04-18T20:10:03.584Z [my-bank-api] info: PUT /account - {"id":1,"name":"Clementine Avell","description":"Casa","balance":"$25,000"}
+2021-04-18T20:10:03.587Z [my-bank-api] info: GET /account
+2021-04-18T20:10:54.506Z [my-bank-api] info: GET /account
+2021-04-18T20:11:12.075Z [my-bank-api] info: GET /account
+2021-04-18T20:12:29.663Z [my-bank-api] info: GET /account
+2021-04-18T20:13:00.031Z [my-bank-api] info: GET /account
+2021-04-18T20:13:01.876Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:13:01.886Z [my-bank-api] info: GET /account
+2021-04-18T20:13:30.924Z [my-bank-api] info: GET /account
+2021-04-18T20:14:36.037Z [my-bank-api] info: GET /account
+2021-04-18T20:14:40.475Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"","balance":"$1,500"}
+2021-04-18T20:14:40.484Z [my-bank-api] info: GET /account
+2021-04-18T20:14:58.226Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:14:58.235Z [my-bank-api] info: GET /account
+2021-04-18T20:15:23.755Z [my-bank-api] info: GET /account
+2021-04-18T20:15:31.366Z [my-bank-api] info: PUT /account - {"id":1,"name":"Clementine Avell","description":"Casa de praia","balance":"$25,000"}
+2021-04-18T20:15:31.376Z [my-bank-api] info: GET /account
+2021-04-18T20:17:30.493Z [my-bank-api] info: GET /account
+2021-04-18T20:18:29.562Z [my-bank-api] info: GET /account
+2021-04-18T20:19:32.286Z [my-bank-api] info: GET /account
+2021-04-18T20:19:45.887Z [my-bank-api] info: GET /account
+2021-04-18T20:19:52.027Z [my-bank-api] info: PUT /account - {"id":0,"name":"Igor Henrique","description":"GTX 1050ti","balance":"$1,500"}
+2021-04-18T20:19:52.030Z [my-bank-api] info: GET /account
+2021-04-18T20:20:53.153Z [my-bank-api] info: GET /account
+2021-04-18T20:22:51.936Z [my-bank-api] info: GET /account
+2021-04-18T20:22:59.686Z [my-bank-api] info: GET /account
+2021-04-18T20:23:08.602Z [my-bank-api] info: GET /account
+2021-04-18T20:23:46.570Z [my-bank-api] info: GET /account
+2021-04-18T20:24:49.627Z [my-bank-api] info: GET /account
+2021-04-18T20:26:33.398Z [my-bank-api] info: GET /account
+2021-04-18T20:26:49.589Z [my-bank-api] info: GET /account
+2021-04-18T20:28:52.624Z [my-bank-api] info: GET /account
+2021-04-18T20:29:01.160Z [my-bank-api] info: GET /account
+2021-04-18T20:29:16.311Z [my-bank-api] info: GET /account
+2021-04-18T20:29:20.336Z [my-bank-api] info: DELETE /account :id
+2021-04-18T20:30:07.931Z [my-bank-api] info: GET /account
+2021-04-18T20:30:13.142Z [my-bank-api] info: DELETE /account :id
+2021-04-18T20:30:48.152Z [my-bank-api] info: GET /account
+2021-04-18T20:30:53.160Z [my-bank-api] info: DELETE /account :id
+2021-04-18T20:32:06.366Z [my-bank-api] info: GET /account
+2021-04-18T20:32:31.273Z [my-bank-api] info: GET /account
+2021-04-18T20:32:41.593Z [my-bank-api] info: GET /account
+2021-04-18T20:32:55.725Z [my-bank-api] info: GET /account
+2021-04-18T20:33:05.538Z [my-bank-api] info: GET /account
+2021-04-18T20:33:10.587Z [my-bank-api] info: GET /account
+2021-04-18T20:33:38.961Z [my-bank-api] info: GET /account
+2021-04-18T20:33:57.709Z [my-bank-api] info: GET /account
+2021-04-18T20:34:09.021Z [my-bank-api] info: GET /account
+2021-04-18T21:08:52.039Z [my-bank-api] info: GET /account
+2021-04-18T21:13:52.515Z [my-bank-api] info: GET /account
+2021-04-18T21:14:01.899Z [my-bank-api] info: GET /account
+2021-04-18T21:15:11.609Z [my-bank-api] info: GET /account
+2021-04-18T21:16:31.630Z [my-bank-api] info: GET /account
+2021-04-18T21:17:55.622Z [my-bank-api] info: GET /account
+2021-04-18T21:18:03.482Z [my-bank-api] info: GET /account
+2021-04-18T21:18:12.562Z [my-bank-api] info: GET /account
+2021-04-18T21:19:21.753Z [my-bank-api] info: GET /account
+2021-04-18T21:19:57.697Z [my-bank-api] info: GET /account
+2021-04-18T21:22:57.908Z [my-bank-api] info: GET /account
+2021-04-18T21:23:09.848Z [my-bank-api] info: GET /account
+2021-04-18T21:24:31.346Z [my-bank-api] info: GET /account
+2021-04-18T21:25:29.255Z [my-bank-api] info: GET /account
+2021-04-18T21:25:34.801Z [my-bank-api] info: GET /account
+2021-04-18T21:26:02.731Z [my-bank-api] info: GET /account
+2021-04-18T21:26:07.076Z [my-bank-api] info: GET /account
+2021-04-18T21:26:10.474Z [my-bank-api] info: GET /account
+2021-04-18T21:27:30.016Z [my-bank-api] info: GET /account
+2021-04-18T21:27:38.429Z [my-bank-api] info: GET /account
+2021-04-18T21:29:48.806Z [my-bank-api] info: GET /account
+2021-04-18T21:54:21.703Z [my-bank-api] info: GET /account
+2021-04-18T21:54:26.759Z [my-bank-api] info: DELETE /account 0
+2021-04-18T21:54:29.949Z [my-bank-api] info: GET /account
+2021-04-18T21:55:29.911Z [my-bank-api] info: GET /account
+2021-04-18T21:56:54.920Z [my-bank-api] info: GET /account
+2021-04-18T21:56:56.903Z [my-bank-api] info: GET /account
+2021-04-18T21:57:08.820Z [my-bank-api] info: GET /account
+2021-04-18T21:57:25.408Z [my-bank-api] info: GET /account
+2021-04-18T21:58:06.899Z [my-bank-api] info: GET /account
+2021-04-18T21:58:09.590Z [my-bank-api] info: POST /account - {"id":8,"name":"Igor Novo","balance":"$1,200","description":"Novo"}
+2021-04-18T21:58:09.598Z [my-bank-api] info: GET /account
+2021-04-18T21:59:41.902Z [my-bank-api] info: GET /account
+2021-04-18T21:59:48.328Z [my-bank-api] info: GET /account
+2021-04-18T22:00:13.660Z [my-bank-api] info: GET /account
+2021-04-18T22:00:21.918Z [my-bank-api] info: GET /account
+2021-04-18T22:00:31.054Z [my-bank-api] info: GET /account
+2021-04-18T22:00:44.966Z [my-bank-api] info: GET /account
+2021-04-18T22:00:52.463Z [my-bank-api] info: POST /account - {"id":9,"name":"Igor Novo 2","balance":"$1,200","description":"novo 2"}
+2021-04-18T22:00:52.471Z [my-bank-api] info: GET /account
+2021-04-18T22:02:37.904Z [my-bank-api] info: GET /account
+2021-04-18T22:02:49.404Z [my-bank-api] info: GET /account
+2021-04-18T22:03:05.466Z [my-bank-api] info: GET /account
+2021-04-18T22:03:05.472Z [my-bank-api] info: POST /account - {"id":10,"name":"Igor Novo 3","balance":"$200","description":"Novo 3"}
+2021-04-18T22:04:28.045Z [my-bank-api] info: GET /account
+2021-04-18T22:04:41.236Z [my-bank-api] info: GET /account
+2021-04-18T22:04:41.252Z [my-bank-api] info: POST /account - {"id":11,"name":"Igor Novo 4","balance":"$1,200","description":"Novo 4"}
+2021-04-18T22:04:48.745Z [my-bank-api] info: GET /account
+2021-04-18T22:04:58.031Z [my-bank-api] info: GET /account
+2021-04-18T22:04:58.040Z [my-bank-api] info: POST /account - {"id":12,"name":"Igor Novo 4","balance":"$1,300","description":"novo 5"}
+2021-04-18T22:05:32.919Z [my-bank-api] info: GET /account
+2021-04-18T22:05:41.836Z [my-bank-api] info: GET /account
+2021-04-18T22:05:41.847Z [my-bank-api] info: POST /account - {"id":13,"name":"Igor novo 5","balance":"$1,200","description":"Novo 5"}
+2021-04-18T22:06:01.549Z [my-bank-api] info: GET /account
+2021-04-18T22:06:10.097Z [my-bank-api] info: POST /account - {"id":14,"name":"igor 5","balance":"$1,200","description":"igor 5"}
+2021-04-18T22:06:10.105Z [my-bank-api] info: GET /account
+2021-04-18T22:06:45.160Z [my-bank-api] info: GET /account
+2021-04-18T22:06:49.491Z [my-bank-api] info: DELETE /account 14
+2021-04-18T22:07:10.693Z [my-bank-api] info: GET /account
+2021-04-18T22:08:34.159Z [my-bank-api] info: DELETE /account 13
+2021-04-18T22:09:04.938Z [my-bank-api] info: GET /account
+2021-04-18T22:09:23.642Z [my-bank-api] info: DELETE /account 12
+2021-04-18T22:09:40.672Z [my-bank-api] info: GET /account
+2021-04-18T22:09:45.632Z [my-bank-api] info: DELETE /account 11
+2021-04-18T22:09:48.465Z [my-bank-api] info: DELETE /account 10
+2021-04-18T22:09:50.406Z [my-bank-api] info: DELETE /account 9
+2021-04-18T22:09:52.670Z [my-bank-api] info: DELETE /account 8
+2021-04-18T22:10:01.800Z [my-bank-api] info: POST /account - {"id":15,"name":"Igor Novo","balance":"$1,200","description":"Devedor"}
+2021-04-18T22:10:01.807Z [my-bank-api] info: GET /account
+2021-04-18T22:10:51.214Z [my-bank-api] info: GET /account
+2021-04-18T22:10:59.966Z [my-bank-api] info: POST /account - {"id":16,"name":"Igor Novo 5","balance":"$1,200","description":"Igor Novo"}
+2021-04-18T22:11:18.750Z [my-bank-api] info: GET /account
+2021-04-18T22:11:25.993Z [my-bank-api] info: POST /account - {"id":17,"name":"Igor Novo 6","balance":"$1,200","description":"novo 6"}
+2021-04-18T22:11:26.001Z [my-bank-api] info: GET /account
+2021-04-18T22:11:33.756Z [my-bank-api] info: DELETE /account 17
+2021-04-18T22:11:35.990Z [my-bank-api] info: DELETE /account 16
+2021-04-18T22:11:37.769Z [my-bank-api] info: DELETE /account 15
+2021-04-18T22:14:19.736Z [my-bank-api] info: PUT /account - {"id":7,"name":"Clementina DuBuque","description":"Lipoaspiração","balance":"$20,000"}
+2021-04-18T22:14:19.752Z [my-bank-api] info: GET /account
+2021-04-18T22:27:30.870Z [my-bank-api] info: GET /account
+2021-04-18T22:44:05.571Z [my-bank-api] info: GET /account
+2021-04-18T22:55:59.287Z [my-bank-api] info: GET /account
+2021-04-18T22:56:07.071Z [my-bank-api] info: GET /account
+2021-04-18T22:56:19.088Z [my-bank-api] info: GET /account
+2021-04-18T22:56:40.327Z [my-bank-api] info: GET /account
+2021-04-18T22:56:46.795Z [my-bank-api] info: GET /account
+2021-04-18T22:57:56.139Z [my-bank-api] info: GET /account
+2021-04-18T23:01:43.498Z [my-bank-api] info: GET /account
+2021-04-18T23:01:48.254Z [my-bank-api] info: GET /account
+2021-04-18T23:01:53.904Z [my-bank-api] info: GET /account
+2021-04-18T23:06:14.327Z [my-bank-api] info: GET /account
+2021-04-18T23:07:09.307Z [my-bank-api] info: POST /account - {"id":18,"name":"Zé Buceta","balance":"$10","description":"Skin do LoL"}
+2021-04-18T23:07:09.598Z [my-bank-api] info: GET /account
+2021-04-18T23:07:31.156Z [my-bank-api] info: GET /account
+2021-04-18T23:07:37.947Z [my-bank-api] info: GET /account
+2021-04-18T23:07:42.677Z [my-bank-api] info: DELETE /account 7
+2021-04-18T23:08:04.572Z [my-bank-api] info: GET /account
+2021-04-18T23:08:15.588Z [my-bank-api] info: DELETE /account 18
+2021-04-18T23:11:38.287Z [my-bank-api] info: GET /account
+2021-04-18T23:12:27.912Z [my-bank-api] info: GET /account
+2021-04-18T23:12:57.765Z [my-bank-api] info: GET /account
+2021-04-18T23:14:00.387Z [my-bank-api] info: GET /account

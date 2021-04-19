@@ -1,0 +1,41 @@
+{
+  "nextId": 19,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Clementine Avell",
+      "description": "Casa de praia",
+      "balance": "$25,000"
+    },
+    {
+      "id": 2,
+      "name": "Patricia Lebsack",
+      "balance": 15000,
+      "description": "Mochilão na Europa"
+    },
+    {
+      "id": 3,
+      "name": "Chelsey Dietrich",
+      "balance": 10000,
+      "description": "Festa de casamento"
+    },
+    {
+      "id": 4,
+      "name": "Mrs. Dennis Schulist",
+      "balance": 1000,
+      "description": "RP no LoL"
+    },
+    {
+      "id": 5,
+      "name": "Kurtis Weissnat",
+      "balance": 150,
+      "description": "Conserto da TV"
+    },
+    {
+      "id": 6,
+      "name": "Glenna Reichert",
+      "balance": 3000,
+      "description": "Prótese de silicone"
+    }
+  ]
+}
